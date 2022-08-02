@@ -6,5 +6,7 @@ robotframework,
 robotframework-seleniumlibrary
 
 
+log to console<2 Space bar here>Hello World
+
 
 
